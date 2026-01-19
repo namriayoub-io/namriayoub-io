@@ -33,14 +33,4 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-# My Profile as Code
-class AyoubNamri:
-    def __init__(self):
-        self.role = "AI & Software Engineering Student"
-        self.focus = ["Deep Learning", "Computer Vision", "Software Architecture"]
-        self.tools = {
-            "Languages": ["Python", "C++", "Java", "SQL", "JavaScript"],
-            "AI_Frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
-            "DevOps": ["Docker", "Git", "Bash"],
-            "Platforms": ["Linux", "AWS", "Google Cloud"]
-        }
+
