@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐲𝐨𝐮𝐛 𝐍𝐚𝐦𝐫𝐢 <script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐲𝐨𝐮𝐛 𝐍𝐚𝐦𝐫𝐢 
   <p><i>Artificial Intelligence & Software Engineering Student</i></p>
 </div>
 
