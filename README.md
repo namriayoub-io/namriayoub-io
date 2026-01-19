@@ -1,40 +1,46 @@
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐲𝐨𝐮𝐛 𝐍𝐚𝐦𝐫𝐢 
-  <p><i>Artificial Intelligence & Software Engineering Student</i></p>
-</div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-</div>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐀𝐲𝐨𝐮𝐛 𝐍𝐚𝐦𝐫𝐢 👋 </h2>
+<p><strong>Artificial Intelligence & Software Engineering Student</strong></p>
 
-Welcome to my digital space! 🚀 <br>
-I'm passionate about building intelligent systems and scalable software solutions. <br>
-Feel free to explore my repositories, open issues, or contribute to my projects.
+<details>
+<p><strong> <summary> 🎧 Currently Coding & Vibing to: </summary> </strong></p>
 
----
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,js,react,git,docker,mysql" />
-</p>
+</details>
 
----
-
-### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayoub's Github Stats">
-
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Ayoub_Namri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) 
 <br>
-
-<i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
----
-
-### 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
 </div>
+
+<hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+# My Profile as Code
+class AyoubNamri:
+    def __init__(self):
+        self.role = "AI & Software Engineering Student"
+        self.focus = ["Deep Learning", "Computer Vision", "Software Architecture"]
+        self.tools = {
+            "Languages": ["Python", "C++", "Java", "SQL", "JavaScript"],
+            "AI_Frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn"],
+            "DevOps": ["Docker", "Git", "Bash"],
+            "Platforms": ["Linux", "AWS", "Google Cloud"]
+        }
