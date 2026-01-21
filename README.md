@@ -13,7 +13,7 @@ I am an **Artificial Intelligence and Software Engineering student** 🤖. I lov
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **AI-driven applications**
-- 🌱 &nbsp; I’m currently learning **Deep Learning & Cloud Architecture**
+- 🌱 &nbsp; I’m currently learning **Deep Learning & Network Security**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/namriayoub-io?tab=repositories)
 - 💬 &nbsp; Ask me about **Python, AI, or Software Dev**, I'm always happy to chat;
 - 📫 &nbsp; Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/ayoub-namri-6b5ba0295)
@@ -23,16 +23,20 @@ I am an **Artificial Intelligence and Software Engineering student** 🤖. I lov
 
 ### 🔨 Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
-<a href="https://en.cppreference.com/w/cpp" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sql/sql.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
+</p>
 
-<br>
+<p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" /></a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+</p>
+
 <br>
 
 ### 📊 Github Stats
