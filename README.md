@@ -1,36 +1,41 @@
-<div align="center">
+## Hey 👋, I'm Ayoub Namri!
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
- 
+<a href='https://www.linkedin.com/in/YOUR_LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='mailto:your.email@example.com'><img align='left' alt="email" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&maxAge=2592000" height='18px'/></a>
+<br/>
 
-<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐀𝐲𝐨𝐮𝐛 𝐍𝐚𝐦𝐫𝐢 👋 </h2>
-<p><strong>Artificial Intelligence & Software Engineering Student</strong></p>
+I am an **Artificial Intelligence and Software Engineering student** 🤖. I love building intelligent systems and solving complex problems through code. My focus is on leveraging Machine Learning and modern Software Architecture to create impactful tools.
 
-<details>
-<p><strong> <summary> 🎧 Currently Coding & Vibing to: </summary> </strong></p>
+<br/>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
 
-</details>
+### 🧐 More About Me:
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Ayoub_Namri-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) 
+- 🔭 &nbsp; I’m currently working on **AI-driven applications**
+- 🌱 &nbsp; I’m currently learning **Deep Learning & Cloud Architecture**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+- 💬 &nbsp; Ask me about **Python, AI, or Software Dev**, I'm always happy to chat;
+- 📫 &nbsp; Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- 📝 &nbsp; Take a look at my [portfolio/resume](#)
+
 <br>
-</div>
 
-<hr>
+### 🔨 Languages and Tools:
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" alt="docker" height='42px'/> </a>
 
+<br>
+<br>
 
+### 📊 Github Stats
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
